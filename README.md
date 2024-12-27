@@ -1,3 +1,3 @@
 # math.sk
 
-[Obsah](/0001.md)
+[Obsah](kilacark.github.io/0001.md)
