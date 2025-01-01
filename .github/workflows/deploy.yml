@@ -1,5 +1,5 @@
 # This file was created automatically with `myst init --gh-pages` 🪄 💚
-
+"""
 name: MyST GitHub Pages Deploy
 on:
   push:
@@ -44,3 +44,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+"""
