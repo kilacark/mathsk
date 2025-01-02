@@ -30,7 +30,7 @@ project:
         - file: node0017.md
     
 site:
-  template: article-theme
+  template: book-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
