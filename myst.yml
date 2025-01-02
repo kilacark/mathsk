@@ -28,7 +28,18 @@ project:
         - file: node0015.md
         - file: node0016.md
         - file: node0017.md
-    
+    - title: Analytická geometria
+      children:
+        - file: node0019.md
+        - file: node0021.md
+        - file: node0022.md
+        - file: node0023-0028.md
+        - file: node0029-0034.md
+        - file: node0035.md
+        - file: node0036.md
+        - file: node0037.md
+        - file: node0038.md
+        - file: node0039.md
 site:
   template: book-theme
   # options:
