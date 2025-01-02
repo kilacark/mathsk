@@ -30,7 +30,7 @@ project:
         - file: 001_CiselneObory\node0017.md
     
 site:
-  template: book-theme
+  template: article-theme
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
